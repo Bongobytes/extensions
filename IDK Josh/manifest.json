@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "IDK Josh",
+  "version": "1.0",
+  "description": "Doesn't do anything...",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": ["tabs"]
+}
